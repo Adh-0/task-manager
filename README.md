@@ -1,4 +1,4 @@
-# TaskManPRO
+# TaskManager
 
 A modern task management application built with Flask and SQLite.
 
@@ -8,7 +8,6 @@ A modern task management application built with Flask and SQLite.
 - Track task progress and time spent
 - Filter tasks by priority, status, and search terms
 - Real-time task statistics
-- Task timer functionality
 - Modern, responsive UI
 
 ## Setup
